@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-floy9h.itwirly.com/sitemap.xml
